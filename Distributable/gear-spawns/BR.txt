@@ -1,0 +1,13 @@
+#BROKEN RAILROAD SPAWN POINTS
+
+scene=MaintenanceShedA
+item=GEAR_CigarettePackCamel p=-5.9480,1.1166,-21.8476 r=-0.0000,30.9366,-0.0000 c=50
+item=GEAR_CigarettePackCamel p=-5.9539,1.1166,-21.9081 r=-0.0000,148.1018,-0.0000 c=50
+item=GEAR_CigarettePackHappiness p=-5.0587,1.0533,-22.0681 r=0.0000,347.9529,0.0000 c=50
+
+scene=HuntingLodgeA
+item=GEAR_CigarettePackHappiness p=1.2030,0.9823,-0.0020 r=0.0000,281.1221,0.0000 c=100
+item=GEAR_CigarettePackCamel p=-9.9447,-2.9605,0.8264 r=270.0000,100.6037,0.0000 c=75
+item=GEAR_CigarettePackLuckySmall p=-9.9437,-2.9843,0.6613 r=0.0000,298.3457,0.0000 c=50
+
+

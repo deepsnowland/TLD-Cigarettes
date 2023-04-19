@@ -1,0 +1,14 @@
+#BUNKER SPAWN POINTS
+
+# Bunker A
+scene=BunkerA
+
+# Bunker B
+scene=BunkerB
+
+# Bunker C
+scene=BunkerC
+
+# Bunker XL
+scene=BunkerXL
+

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: cigarettes.unity3d
+  m_EditorClassIdentifier: 
+  m_GroupName: cigarettes.unity3d
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 61e644d0223a01a459c1ca37b1e5c32d
+  m_SerializeEntries:
+  - m_GUID: 1f9eecfe43ab02243ada8fe858fde5a8
+    m_Address: ico_GearItem__Cigarette
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a452b5b63d59273469860e8f0094b992
+    m_Address: ico_GearItem__CigaretteLucky
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4967aea65391c724b80be679eda34407
+    m_Address: ico_GearItem__CigarettePackCamel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 9308dfe7f57261d4b933640fe29e2690
+    m_Address: ico_GearItem__CigarettePackHappiness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 865290b170445d04e922e997f426590d
+    m_Address: ico_GearItem__CigarettePackLucky
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 8604a06cfedfc8b48962e9f84c77cb81
+    m_Address: ico_GearItem__CigarettePackLuckySmall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5927c920b4cfad64e99b39c3d6ea7076
+    m_Address: ico_GearItem__CigarettePackMenthol
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d7fe4a62ffef53a4a8120095e11a0f99
+    m_Address: ico_GearItem__Lighter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0a2f7808d49f11948bcf56dd9700c808
+    m_Address: GEAR_Cigarette
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b5a7e971f3c40234383d1e83f607710d
+    m_Address: GEAR_CigaretteLucky
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f5674614fa2b9584780bcb1b64c30666
+    m_Address: GEAR_CigarettePackCamel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4bb95429c0b2e7647ab2b99f91ba435a
+    m_Address: GEAR_CigarettePackHappiness
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 798d9d6526ee83244bf1eb79fcf34846
+    m_Address: GEAR_CigarettePackLucky
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: d16710d1b76b066469ee18cab4e8de2b
+    m_Address: GEAR_CigarettePackLuckySmall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 2e5d76f541dcc0947b4131465274718a
+    m_Address: GEAR_CigarettePackMenthol
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6db7f6c7cc5616f4c937fa48fdef4dfd
+    m_Address: GEAR_Lighter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 50e7e79aa5a5ef64bbde769e8385c0a3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 047492178d9d5924f9d9652523f67ea3, type: 2}
+    - {fileID: 11400000, guid: 5b836dae844feba4798012bceb9ca3b8, type: 2}

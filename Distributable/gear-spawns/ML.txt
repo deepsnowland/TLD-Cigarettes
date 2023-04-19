@@ -1,0 +1,23 @@
+#MYSTERY LAKE SPAWN SPOTS
+
+scene=lakeregion
+# Lookout
+item=GEAR_CigarettePackCamel p=788.1458,213.9194,965.7216 r=270.0000,50.5144,0.0000 c=25
+item=GEAR_CigarettePackLucky p=789.6174,212.9958,966.5458 r=0.0000,247.6575,0.0000 c=10
+scene=CampOffice
+item=GEAR_CigarettePackMenthol p=-1.2100,4.5992,3.2634 r=270.4760,139.6068,261.5635 c=100
+item=GEAR_Cigarette p=-1.2792,4.6025,3.2535 r=-0.0000,179.1951,-0.0000 c=100
+item=GEAR_Lighter p=-1.1814,4.5990,3.2236 r=358.6882,309.9618,269.8808 c=100
+
+scene=DamTransitionZone
+item=GEAR_CigarettePackCamel p=-6.6535,1.0782,-4.8265 r=270.0000,151.8619,0.0000 c=75
+item=GEAR_CigarettePackCamel p=-6.5622,1.1182,-4.7959 r=0.0000,217.8918,0.0000 c=50
+item=GEAR_Lighter p=-6.6188,1.0546,-4.7475 r=-0.0000,88.2055,-0.0000 c=25
+
+scene=Dam
+item=GEAR_CigarettePackMenthol p=-1.1340,1.0843,-3.9226 r=-0.0000,123.2592,-0.0000 c=50
+item=GEAR_CigarettePackHappiness p=-9.3669,1.0710,-19.8576 r=0.0000,240.1425,0.0000 c=25
+item=GEAR_CigarettePackHappiness p=11.4178,1.1759,-20.6143 r=90.0000,45.9082,0.0000 c=15
+item=GEAR_Lighter p=11.3721,0.9440,-20.4221 r=-0.0000,351.9288,90.0001 c=25
+item=GEAR_Lighter p=-12.6855,5.6466,-19.0299 r=-0.0000,65.6450,-0.0000 c=50
+item=GEAR_CigarettePackLucky p=-12.7726,5.6467,-18.9948 r=-0.0000,12.0305,-0.0000 c=50

@@ -1,0 +1,417 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.6f1 (7da38d85baf6) revision 8233869'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Core' Language: 'el' Physical Memory: 49067 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/Users/PC/My project
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+49726
+Successfully changed project path to: C:/Users/PC/My project
+C:/Users/PC/My project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 79.51 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.6f1 (7da38d85baf6)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/PC/My project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2206)
+    Vendor:   NVIDIA
+    VRAM:     10067 MB
+    Driver:   31.0.15.3141
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56700
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007592 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 85.33 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.591 seconds
+Domain Reload Profiling:
+	ReloadAssembly (591ms)
+		BeginReloadAssembly (70ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (419ms)
+			LoadAssemblies (67ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (93ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (25ms)
+			SetupLoadedEditorAssemblies (256ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (85ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (123ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.006437 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\My project\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\My project\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.49 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.940 seconds
+Domain Reload Profiling:
+	ReloadAssembly (941ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (717ms)
+			LoadAssemblies (84ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (235ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (43ms)
+			SetupLoadedEditorAssemblies (329ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (204ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3368 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 27 unused Assets / (111.5 KB). Loaded Objects now: 3825.
+Memory consumption went from 115.9 MB to 115.8 MB.
+Total: 3.075000 ms (FindLiveObjects: 0.252400 ms CreateObjectMapping: 0.162200 ms MarkObjects: 2.575600 ms  DeleteObjects: 0.084200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.006097 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\My project\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\PC\My project\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.050 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1050ms)
+		BeginReloadAssembly (148ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (40ms)
+		EndReloadAssembly (803ms)
+			LoadAssemblies (94ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (288ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (332ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (14ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (76ms)
+				ProcessInitializeOnLoadAttributes (202ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
+				AfterProcessingInitializeOnLoad (9ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3841 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (78.5 KB). Loaded Objects now: 4306.
+Memory consumption went from 132.2 MB to 132.2 MB.
+Total: 2.893900 ms (FindLiveObjects: 0.255400 ms CreateObjectMapping: 0.174600 ms MarkObjects: 2.380300 ms  DeleteObjects: 0.082900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1302247.359867 seconds.
+  path: Assets/AddressableAssetsData/AssetGroups/cigarettes.unity3d.asset
+  artifactKey: Guid(e80e34ae33617634c969757c426b50f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AddressableAssetsData/AssetGroups/cigarettes.unity3d.asset using Guid(e80e34ae33617634c969757c426b50f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74ca08821927e7125527682e47026360') in 0.086819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 73.777645 seconds.
+  path: Assets/Models/cigaret.asset
+  artifactKey: Guid(7aa7fd83352aa684a88dba3b2c321901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/cigaret.asset using Guid(7aa7fd83352aa684a88dba3b2c321901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4380e88335bb613eebfb50f37c586c2d') in 0.090023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/Models/Fuel Adjuster.asset
+  artifactKey: Guid(628a1de83bfbb0346942c18c1de700f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Fuel Adjuster.asset using Guid(628a1de83bfbb0346942c18c1de700f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72df23a1c071914f75c432be7a8e1e5c') in 0.008742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Models/Cigarette10.asset
+  artifactKey: Guid(c5990292dd2f9c745bd4fc6bf051fea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Cigarette10.asset using Guid(c5990292dd2f9c745bd4fc6bf051fea1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c7b2570b395d5cd14c9d15dfdee839') in 0.007610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Models/Cigarette00.asset
+  artifactKey: Guid(c478a39d825aa2849bc935d8195ebb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Cigarette00.asset using Guid(c478a39d825aa2849bc935d8195ebb1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b53ddccad5ad4a4f7255f13598c792') in 0.007652 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/Flint Wheel.asset
+  artifactKey: Guid(cc5ebde1f36b3e7409bc4a1c6c49d39a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Flint Wheel.asset using Guid(cc5ebde1f36b3e7409bc4a1c6c49d39a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72cc28059ce61d6e7d1d05a182910ab6') in 0.009043 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/Rotating_Cap.asset
+  artifactKey: Guid(e8117293132d5b34cb0859ad565f48e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Rotating_Cap.asset using Guid(e8117293132d5b34cb0859ad565f48e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32221355cc27d8474177fe13713cbed2') in 0.007182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Models/Cigarette16.asset
+  artifactKey: Guid(73bf89a7adf77ae41ae766179724e679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Cigarette16.asset using Guid(73bf89a7adf77ae41ae766179724e679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e16c0e7ddf97487ebe4a84ad69d8256') in 0.008153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Cigarette13.asset
+  artifactKey: Guid(c160a7d24951d9149b772ef2a2cfbbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Cigarette13.asset using Guid(c160a7d24951d9149b772ef2a2cfbbb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b547dc9db4a18eeea4335c5bae24a7e0') in 0.007269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/Lighter.asset
+  artifactKey: Guid(76fd248e4a7be274da14a8048962d327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Lighter.asset using Guid(76fd248e4a7be274da14a8048962d327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9caeb9df724f1fbabd363e974ff0aca') in 0.007864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models/Ultralights.prefab
+  artifactKey: Guid(9c7f2c57f1764bc4bbbc1915ba521654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Ultralights.prefab using Guid(9c7f2c57f1764bc4bbbc1915ba521654) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7d093f5d10c525a5dd7d395d6f19baa') in 0.058682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/CigarettesPack_LuckyStrike_20.prefab
+  artifactKey: Guid(f5be104cd92743945bfd01cd2c4590ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/CigarettesPack_LuckyStrike_20.prefab using Guid(f5be104cd92743945bfd01cd2c4590ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3a6eaa7fd71e008a7ecd09ce32a8856') in 0.013553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/Cigarette_01_LOD0.asset
+  artifactKey: Guid(607a4b041a52b904b952060a1e821c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Cigarette_01_LOD0.asset using Guid(607a4b041a52b904b952060a1e821c97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8bed50374e4451b54145e5253600bfb') in 0.007396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/Cigarette19.asset
+  artifactKey: Guid(4bba6dd6a2715894ca4de34a9c2daf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Cigarette19.asset using Guid(4bba6dd6a2715894ca4de34a9c2daf75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad82c0440b516792be37a9381a626ccd') in 0.006646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Models/CigarettesPack_LuckyStrike_4_LOD0.asset
+  artifactKey: Guid(012f06115a7ee91449abc5b0e3fbe8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/CigarettesPack_LuckyStrike_4_LOD0.asset using Guid(012f06115a7ee91449abc5b0e3fbe8aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b84899ee38acf57624aa030e485ded') in 0.006880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Models/CigarettesPack_LuckyStrike_20_LOD1.asset
+  artifactKey: Guid(eccac63eda21e7f418cd216238fe6892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/CigarettesPack_LuckyStrike_20_LOD1.asset using Guid(eccac63eda21e7f418cd216238fe6892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac97b85b422085f7c4462a278d0f3f66') in 0.007612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Models/doha_down.asset
+  artifactKey: Guid(2203a5288eeb2af489912603429fbe20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/doha_down.asset using Guid(2203a5288eeb2af489912603429fbe20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75069d5d46ed23a871c012466d7ddab1') in 0.008213 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Models/polySurface6.asset
+  artifactKey: Guid(594a84f42d4e34442b94a6332e64c004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/polySurface6.asset using Guid(594a84f42d4e34442b94a6332e64c004) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c891e8655094adae39ccf3a1b12282d') in 0.007578 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Models/Lighter_FBX.prefab
+  artifactKey: Guid(87f8c5dc8a8020140b83ce486b68ab68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Lighter_FBX.prefab using Guid(87f8c5dc8a8020140b83ce486b68ab68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5716fb9c21e186ef7bee743f9ea1ce14') in 0.016347 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Models/Cigarette01.asset
+  artifactKey: Guid(ac3f65cf42032d74085056a8721eabf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/Cigarette01.asset using Guid(ac3f65cf42032d74085056a8721eabf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fa793faf2841409d9b876f4baa1ce3b') in 0.009291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models/MainPack.asset
+  artifactKey: Guid(25e98947d7fb80947a28b3acb83b804d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/MainPack.asset using Guid(25e98947d7fb80947a28b3acb83b804d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5efc66ad9a5e296cd3541d5c1bc2bd2') in 0.007805 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 28.818313 seconds.
+  path: Assets/Prefabs/GEAR_CigarettePackCamel.prefab
+  artifactKey: Guid(f5674614fa2b9584780bcb1b64c30666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_CigarettePackCamel.prefab using Guid(f5674614fa2b9584780bcb1b64c30666) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36df96c89c6a7528b62ac55a2acd2752') in 0.008280 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Prefabs/GEAR_CigarettePackLuckySmall.prefab
+  artifactKey: Guid(d16710d1b76b066469ee18cab4e8de2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_CigarettePackLuckySmall.prefab using Guid(d16710d1b76b066469ee18cab4e8de2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05307de8dd9aaeaaf0881f0514ea7b0e') in 0.009873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Prefabs/GEAR_CigarettePackLucky.prefab
+  artifactKey: Guid(798d9d6526ee83244bf1eb79fcf34846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_CigarettePackLucky.prefab using Guid(798d9d6526ee83244bf1eb79fcf34846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20c927d8515de799311fcb0950d31728') in 0.010502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Prefabs/GEAR_Lighter.prefab
+  artifactKey: Guid(6db7f6c7cc5616f4c937fa48fdef4dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/GEAR_Lighter.prefab using Guid(6db7f6c7cc5616f4c937fa48fdef4dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '553e0b245ca9897cc7b65b5e9afc6b87') in 0.012401 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 223.155386 seconds.
+  path: Assets/Models/textures/cig_text.png
+  artifactKey: Guid(1434fbacb0dbc4b4eb811fb48ff5da5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/textures/cig_text.png using Guid(1434fbacb0dbc4b4eb811fb48ff5da5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b533931968e350bcb8db1d9cb0535cd6') in 0.057112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Models/textures/lighter.png
+  artifactKey: Guid(ef3c1cd3b46195a4096972ee474bbc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/textures/lighter.png using Guid(ef3c1cd3b46195a4096972ee474bbc8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3a1d70d2bf369d71bbe5abea280713') in 0.010379 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Models/textures/US_Cigarettes_WWII_Material_BaseColor.png
+  artifactKey: Guid(b92c17fe14fd4e242b4e4fbec0c7dad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/textures/US_Cigarettes_WWII_Material_BaseColor.png using Guid(b92c17fe14fd4e242b4e4fbec0c7dad8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '770ea86a0c3c7975f3a32ec0ab977042') in 0.017601 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 3.288026 seconds.
+  path: Assets/Models/materials/camel2.mat
+  artifactKey: Guid(3f5b0d5701bba8f469371f04db32bbae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/materials/camel2.mat using Guid(3f5b0d5701bba8f469371f04db32bbae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28d828bb817c952cfe95059d28b934bf') in 0.022760 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Models/materials/US_Cigarettes_WWII_Material 3.mat
+  artifactKey: Guid(e51133ce96a77ca498d183d65d6a12ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/materials/US_Cigarettes_WWII_Material 3.mat using Guid(e51133ce96a77ca498d183d65d6a12ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2f5bf02752293159ba92e4ee2e66483') in 0.009611 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Models/materials/cigarette.mat
+  artifactKey: Guid(05a50530f15b00a4abe9bcabdd5ea41c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/materials/cigarette.mat using Guid(05a50530f15b00a4abe9bcabdd5ea41c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6dd3317ad561632c3f734898c27ce53') in 0.008724 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Models/materials/doha_downMat.mat
+  artifactKey: Guid(413f81744e3ab1b44992f8934cef52f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/materials/doha_downMat.mat using Guid(413f81744e3ab1b44992f8934cef52f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fef147e0f841eb8f927127161d73624c') in 0.009291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Models/materials/lighter.mat
+  artifactKey: Guid(84fe377b690940e4e85d2c6d6a4d08b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Models/materials/lighter.mat using Guid(84fe377b690940e4e85d2c6d6a4d08b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ae09be3f42e50a5716fa8a36172ee1') in 0.009410 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

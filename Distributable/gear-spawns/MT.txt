@@ -1,0 +1,18 @@
+# MOUNTAIN TOWN SPAWN POINTS
+
+#MountainTown
+scene=farmhouseb
+item=GEAR_CigarettePackHappiness p=-2.9671,0.9763,0.2225 r=-0.0000,41.0505,-0.0000 c=75
+item=GEAR_CigarettePackCamel p=4.0017,1.1129,-5.8899 r=-0.0000,8.9857,-0.0000 c=50
+
+scene=GreyMothersHouseA
+item=GEAR_CigarettePackLuckySmall p=-0.8767,3.7523,-1.7891 r=0.0000,325.5310,0.0000 c=75
+item=GEAR_Lighter p=-1.0352,4.4592,-1.7579 r=-0.0000,42.8147,-0.0000 c=85
+
+scene=ConvenienceStoreA
+item=GEAR_CigarettePackLucky p=-2.3992,1.0435,7.6398 r=0.0000,209.8642,0.0000 c=75
+item=GEAR_CigarettePackLucky p=-2.4430,1.0435,7.5262 r=0.0000,213.1967,0.0000 c=75
+item=GEAR_CigarettePackCamel p=-2.2294,1.1071,7.5238 r=0.0000,264.8886,0.0000 c=75
+item=GEAR_CigarettePackCamel p=-2.2722,1.1071,7.5708 r=0.0000,268.9233,0.0000 c=75
+item=GEAR_CigarettePackMenthol p=-2.2278,1.0477,7.3155 r=-0.0000,65.0975,-0.0000 c=75
+item=GEAR_CigarettePackMenthol p=-2.3081,1.0477,7.2421 r=0.0000,328.5667,0.0000 c=75

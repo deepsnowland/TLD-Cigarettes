@@ -1,0 +1,14 @@
+#DESOLATION POINT SPAWN POINTS
+
+scene=lighthouseA
+item=GEAR_CigarettePackCamel p=3.9800,0.9290,4.3383 r=-0.0000,6.3602,-0.0000 c=50
+item=GEAR_CigarettePackCamel p=-0.4642,4.8734,0.8605 r=-0.0000,22.4669,-0.0000 c=50
+item=GEAR_Lighter p=-0.4278,4.8098,0.9286 r=-0.0000,49.6049,-0.0000 c=50
+
+scene=TrailerSShape
+item=GEAR_CigarettePackLucky p=2.2138,0.0003,2.7791 r=0.0000,314.0911,0.0000 c=75
+item=GEAR_CigarettePackMenthol p=5.1320,0.0139,-9.9902 r=-0.0000,58.0596,-0.0000 c=75
+
+scene=WhalingWarehouseA
+item=GEAR_CigarettePackCamel p=2.7317,5.0086,-12.3391 r=0.0000,255.8455,0.0000 c=75
+item=GEAR_Lighter p=2.6347,4.9450,-12.3454 r=0.0000,359.6450,0.0000 c=50

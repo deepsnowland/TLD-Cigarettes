@@ -1,0 +1,51 @@
+#-----------------
+loottable=BackPack
+#-----------------
+
+item=GEAR_CigarettePackCamel w=3
+item=GEAR_CigarettePackMenthol w=2
+item=GEAR_CigarettePackHappiness w=1
+item=GEAR_Lighter w=1
+
+#-----------------
+loottable=HumanCorpse
+#-----------------
+
+item=GEAR_CigarettePackCamel w=1
+item=GEAR_CigarettePackMenthol w=1
+item=GEAR_CigarettePackHappiness w=1
+item=GEAR_Lighter w=1
+
+#-----------------
+loottable=VehicleTrunk
+#-----------------
+
+item=GEAR_Lighter w=1
+
+item=GEAR_CigarettePackLucky w=1
+item=GEAR_CigarettePackLuckySmall w=1
+
+#-----------------
+loottable=VehicleGloveBox
+#-----------------
+
+item=GEAR_CigarettePackLucky w=3
+item=GEAR_CigarettePackLuckySmall w=3
+item=GEAR_Lighter w=3
+
+#-----------------
+loottable=FishingDrawer
+#-----------------
+
+item=GEAR_CigarettePackCamel w=1
+item=GEAR_CigarettePackMenthol w=1
+item=GEAR_CigarettePackHappiness w=1
+item=GEAR_Lighter w=3
+
+#-----------------
+loottable=Locker
+#-----------------
+
+item=GEAR_CigarettePackLucky w=1
+item=GEAR_CigarettePackLuckySmall w=1
+item=GEAR_Lighter w=1

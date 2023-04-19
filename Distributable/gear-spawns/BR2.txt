@@ -1,0 +1,15 @@
+#BLACKROCK SPAWN POINTS
+
+#Blackrock
+scene=BlackrockPowerplantA
+item=GEAR_CigarettePackLucky p=10.7929,1.0527,3.7675 r=-0.0000,1.1081,-0.0000 c=50
+item=GEAR_Lighter p=10.9039,1.0526,3.7314 r=0.0000,277.0769,0.0000 c=85
+
+scene=BlackrockPrisonSurvivalZone
+item=GEAR_CigarettePackLuckySmall p=-110.6243,226.3000,111.6980 r=0.0000,296.5312,0.0000 c=50
+item=GEAR_CigarettePackCamel p=-229.2223,234.0072,156.7126 r=270.0000,56.7441,0.0000 c=50
+
+scene=RadioControlHutC
+item=GEAR_CigarettePackCamel p=-0.0543,0.9288,1.8948 r=-0.0000,140.6228,-0.0000 c=50
+
+

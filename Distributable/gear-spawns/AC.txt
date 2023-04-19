@@ -1,0 +1,19 @@
+#ASH CANYON SPAWN POINTS
+
+# Ash Canyon
+scene=AshWoodCabinA
+item=GEAR_Lighter p=1.8135,0.9062,1.8498 r=0.0000,328.7181,270.0000 c=50
+item=GEAR_CigarettePackCamel p=1.6666,0.9698,2.8197 r=-0.0000,32.5857,-0.0000 c=50
+
+scene=AshCabinD
+item=GEAR_CigarettePackMenthol p=-0.1529,0.0427,1.8549 r=0.0000,327.1563,0.0000 c=75
+item=GEAR_Lighter p=-0.2383,0.0163,-2.0835 r=-0.0000,121.7013,-0.0000 c=50
+
+scene=AshCabinF
+item=GEAR_CigarettePackHappiness p=2.0263,0.8314,0.9898 r=90.0000,326.6076,0.0000 c=75
+item=GEAR_Lighter p=2.1170,0.8094,1.0478 r=0.0000,358.0458,0.0000 c=50
+
+scene=WoodCabinB
+item=GEAR_CigarettePackCamel p=-0.4587,0.6515,3.5767 r=0.0000,282.4212,0.0000 c=75
+item=GEAR_CigarettePackLuckySmall p=5.5816,0.8728,-1.4337 r=0.0000,321.7046,0.0000 c=75
+item=GEAR_Lighter p=-0.4984,0.5880,3.6489 r=-0.0000,17.9247,-0.0000 c=100

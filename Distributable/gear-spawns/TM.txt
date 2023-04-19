@@ -1,0 +1,7 @@
+#TIMBERWOLF MOUNTAIN SPAWN POINTS
+
+#Timberwolf Mountain - Lodge
+scene=CrashMountainRegion
+item=GEAR_CigarettePackMenthol p=886.6868,162.0958,340.7965 r=0.0000,212.6310,0.0000 c=100
+item=GEAR_Lighter p=886.7073,162.0861,340.6794 r=0.0000,244.9562,0.0000 c=100
+item=GEAR_CigarettePackLuckySmall p=887.0981,161.5059,345.0731 r=-0.0000,124.9368,-0.0000 c=50

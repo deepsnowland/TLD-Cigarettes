@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_CigarettePackLuckySmall",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_CigarettePackLuckySmallDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 150,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "FirstAid",
+                                "PickUpAudio" : "Play_SndInvMatchbook",
+                                "PutBackAudio" : "Play_SndInvMatchbook",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [0, -90, 90],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }
+							"ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingReishi",
+                                "Minutes" : 5,
+                                "YieldCounts" : [3],
+                                "YieldNames" : ["GEAR_CigaretteLucky"],
+                                "RequiredToolNames" : []
+                            }
+}

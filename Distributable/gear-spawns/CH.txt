@@ -1,0 +1,12 @@
+#COASTAL HIGHWAY SPAWN SPOTS
+
+scene=quonsetgasstation
+item=GEAR_CigarettePackCamel p=5.4054,1.0616,6.6278 r=270.0000,47.1170,0.0000 c=100
+item=GEAR_CigarettePackCamel p=5.4203,1.1016,6.5158 r=0.0000,351.5311,0.0000 c=75
+item=GEAR_CigarettePackMenthol p=5.4688,1.0935,6.6343 r=0.0000,276.5708,0.0000 c=75
+item=GEAR_CigarettePackLuckySmall p=0.1304,1.0419,-7.2791 r=-0.0000,35.7281,-0.0000 c=50
+item=GEAR_Lighter p=0.1908,1.0422,-7.2786 r=-0.0000,48.3727,-0.0000 c=25
+
+scene=coastalregion
+# Tower
+item=GEAR_CigarettePackHappiness p=354.2008,204.1827,1156.8804 r=0.0000,342.5409,0.0000 c=75

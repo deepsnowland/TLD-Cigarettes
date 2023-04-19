@@ -1,0 +1,19 @@
+#FORSAKEN AIRFIELD SPAWN POINTS
+
+# Forsaken region
+scene=AirfieldRegion
+# Mindful Cabin
+item=GEAR_CigarettePackMenthol p=-733.5336,296.0771,1134.4462 r=0.0000,267.5402,0.0000 c=75
+item=GEAR_CigarettePackMenthol p=-733.5511,296.0771,1134.3472 r=-0.0000,46.3831,-0.0000 c=50
+item=GEAR_Lighter p=-733.4341,296.0635,1134.3781 r=0.0000,347.9013,0.0000 c=50
+# Other Cabin
+item=GEAR_CigarettePackCamel p=324.6022,208.9086,1017.2525 r=-0.0000,84.6698,-0.0000 c=50
+item=GEAR_CigarettePackLuckySmall p=329.2791,209.6412,1014.6989 r=0.0000,348.1361,0.0000 c=50
+item=GEAR_CigarettePackLucky p=326.5585,209.9613,1010.9145 r=90.0000,144.2825,0.0000 c=50
+item=GEAR_Lighter p=326.5421,209.9013,1010.9700 r=-0.0000,65.2202,-0.0000 c=50
+
+scene=AirfieldWoodCabinA
+item=GEAR_CigarettePackLuckySmall p=1.2364,0.8636,1.6060 r=0.0000,348.0005,0.0000 c=85
+
+scene=AirfieldTrailerB
+item=GEAR_CigarettePackHappiness p=3.4208,1.1366,-1.6588 r=-0.0000,56.7711,-0.0000 c=85

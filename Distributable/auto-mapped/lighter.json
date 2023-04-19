@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_Lighter",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_LighterDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.1,
+                                "DaysToDecay" : 200,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "Play_SndInvGenericSmall",
+                                "PutBackAudio" : "Play_SndInvGenericSmall",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.3,
+                                "InspectAngles" : [0, 50, 0],
+                                "InspectOffset" : [0, -0.035, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }
+							"ModHarvestableBehaviour": {
+                                "Audio" : "Play_HarvestingAmmo",
+                                "Minutes" : 10,
+                                "YieldCounts" : [1],
+                                "YieldNames" : ["GEAR_Accelerant"],
+                                "RequiredToolNames" : []
+                            }
+}

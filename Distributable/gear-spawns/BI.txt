@@ -1,0 +1,18 @@
+#BLEAK INLET SPAWN POINTS
+
+# Bleak Inlet
+scene=CanneryRegion
+# Tower
+item=GEAR_CigarettePackMenthol p=296.8521,240.0763,351.0822 r=0.0000,266.9777,0.0000 c=100
+item=GEAR_CigarettePackMenthol p=296.8481,240.1041,351.0901 r=0.0000,260.7128,0.0000 c=75
+item=GEAR_Lighter p=296.8214,240.0626,351.1621 r=0.0000,180.8741,0.0000 c=100
+
+scene=MaintenanceShedB
+item=GEAR_CigarettePackLucky p=3.9770,1.1130,-21.7359 r=270.0000,54.1437,0.0000 c=100
+item=GEAR_Lighter p=3.9966,1.0530,-21.8972 r=-0.0000,283.8449,270.0000 c=50
+item=GEAR_CigarettePackCamel p=9.5720,2.3002,-7.4380 r=87.1593,350.1370,323.9569 c=50
+
+scene=RadioControlHutB
+item=GEAR_CigarettePackHappiness p=0.1572,1.0550,2.1157 r=90.0000,185.9373,0.0000 c=75
+item=GEAR_CigarettePackCamel p=-0.3717,0.0239,-0.1294 r=270.0000,268.8767,0.0000 c=75
+item=GEAR_Lighter p=-0.0663,1.0546,2.1341 r=0.0000,251.8861,0.0000 c=75

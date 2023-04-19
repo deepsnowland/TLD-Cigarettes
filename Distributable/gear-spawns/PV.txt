@@ -1,0 +1,21 @@
+#PLEASANT VALLEY SPAWN POINTS
+
+# Pleasant Valley
+scene=communityhalla
+item=GEAR_CigarettePackHappiness p=-4.0014,0.5941,4.5225 r=0.0000,291.5399,0.0000 c=75
+item=GEAR_CigarettePackCamel p=-4.1210,0.6535,4.4394 r=-0.0000,31.7329,-0.0000 c=75
+
+scene=farmhousea
+item=GEAR_CigarettePackLuckySmall p=6.2436,0.9497,-1.6471 r=-0.0000,138.0922,-0.0000 c=85
+item=GEAR_Lighter p=3.1043,0.5367,7.4558 r=-0.0000,25.5904,-0.0000 c=50
+item=GEAR_Lighter p=3.1183,0.5364,7.4283 r=0.0000,234.9121,0.0000 c=50
+
+scene=ruralstorea
+item=GEAR_CigarettePackLucky p=1.9328,0.6058,1.6997 r=0.0000,295.8542,0.0000 c=75
+item=GEAR_CigarettePackLucky p=1.8249,0.6058,1.7317 r=0.0000,210.1415,0.0000 c=75
+item=GEAR_CigarettePackHappiness p=1.6095,0.2049,1.6436 r=0.0000,192.6754,0.0000 c=75
+item=GEAR_CigarettePackHappiness p=1.6020,0.2049,1.7575 r=0.0000,186.2556,0.0000 c=75
+
+scene=radiocontrolhut
+item=GEAR_CigarettePackCamel p=-0.2426,1.0938,2.0205 r=-0.0000,154.8969,-0.0000 c=75
+item=GEAR_CigarettePackCamel p=0.6213,1.0668,3.4402 r=-0.0000,97.2359,-0.0000 c=75

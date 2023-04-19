@@ -1,0 +1,85 @@
+{
+  "ModFoodComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_CigaretteLucky",
+    "DescriptionLocalizatonId": "GAMEPLAY_CigaretteLuckyDescription",
+    "InventoryActionLocalizationId": "GAMEPLAY_CigaretteLuckyAction",
+    "WeightKG": 0.1,
+    "DaysToDecay": 100,
+    "MaxHP": 100,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "FirstAid",
+    "PickUpAudio": "Play_SndInvMatchbook",
+    "PutBackAudio": "Play_SndInvMatchbook",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.4,
+    "InspectAngles": [ -18, 25, 0 ],
+    "InspectOffset": [ 0, 0, 0 ],
+    "InspectScale": [ 1, 1, 1 ],
+    "NormalModel": "",
+    "InspectModel": "",
+
+    "Cooking": false,
+    "CookingMinutes": 8,
+    "CookingUnitsRequired": 1,
+    "CookingWaterRequired": 0,
+    "CookingResult": "",
+    "BurntMinutes": 30,
+    "Type": "Liquid",
+    "CookingAudio": "",
+    "StartCookingAudio": "",
+
+    "DaysToDecayOutdoors": 0,
+    "DaysToDecayIndoors": 0,
+    "Calories": 1,
+    "Servings": 5,
+    "EatingTime": 4,
+    "EatingAudio": "Play_SndActionFireMatchLight1",
+    "EatingPackagedAudio": "",
+    "ThirstEffect": -20,
+
+    "FoodPoisoning": 0,
+    "FoodPoisoningLowCondition": 0,
+    "ParasiteRiskIncrements": [],
+
+    "Natural": false,
+    "Raw": false,
+    "Drink": false,
+    "Meat": false,
+    "Fish": false,
+    "Canned": false,
+
+    "Opening": false,
+    "OpeningWithCanOpener": false,
+    "OpeningWithKnife": false,
+    "OpeningWithHatchet": false,
+    "OpeningWithSmashing": false,
+
+    "AffectCondition": false,
+    "ConditionRestBonus": 0,
+    "ConditionRestMinutes": 0,
+
+    "AffectRest": true,
+    "InstantRestChange": 10,
+    "RestFactorMinutes": 20,
+    "RestFactor": 1.25,
+
+    "AffectCold": false,
+    "InstantColdChange": 0,
+    "ColdFactorMinutes": 60,
+
+    "ContainsAlcohol": false,
+    "AlcoholPercentage": 0,
+    "AlcoholUptakeMinutes": 45
+  },
+  
+    "ModStackableBehaviour": {
+                                "SingleUnitTextId" : "GAMEPLAY_CigaretteLuckySingle",
+                                "MultipleUnitTextId" : "GAMEPLAY_CigaretteLuckyMultiple",
+                                "StackSprite" : "",
+                                "UnitsPerItem" : 6,
+                                "ChanceFull" : 50
+                             }
+}
+}

@@ -1,0 +1,68 @@
+{
+  "GAMEPLAY_Cigarette": {
+    "English": "Cigarette"
+  },
+  "GAMEPLAY_CigaretteDescription": {
+    "English": "A filtered tobacco cigarette."
+  }
+  "GAMEPLAY_CigaretteAction": {
+	"English": "Smoking"
+  },
+  "GAMEPLAY_CigaretteSingle": {
+    "English": "Cigarette"
+  },
+  "GAMEPLAY_CigaretteMultiple": {
+    "English": "Cigarettes"
+  },
+  "GAMEPLAY_CigaretteLucky": {
+    "English": "Cigarette"
+  },
+  "GAMEPLAY_CigaretteLuckyDescription": {
+    "English": "An unfiltered Lucky Strike cigarette."
+  }
+  "GAMEPLAY_CigaretteLuckyAction": {
+	"English": "Smoking"
+  },
+  "GAMEPLAY_CigaretteLuckySingle": {
+    "English": "Cigarette"
+  },
+  "GAMEPLAY_CigaretteLuckyMultiple": {
+    "English": "Cigarettes"
+  },
+  "GAMEPLAY_CigarettePackCamel": {
+    "English": "Cigarette Pack"
+  },
+  "GAMEPLAY_CigarettePackCamelDescription": {
+    "English": "A pack of Camel cigarettes."  
+  },
+  "GAMEPLAY_CigarettePackLucky": {
+    "English": "Cigarette Pack"
+  },
+  "GAMEPLAY_CigarettePackLuckyDescription": {
+    "English": "A pack of Lucky Strike cigarettes."  
+  },
+   "GAMEPLAY_CigarettePackLuckySmall": {
+    "English": "Vintage Cigarettes"
+  },
+  "GAMEPLAY_CigarettePackLuckySmallDescription": {
+    "English": "A small vintage pack of Lucky Strike cigarettes."  
+  }, 
+   "GAMEPLAY_CigarettePackHappiness": {
+    "English": "Cigarette Pack"
+  },
+  "GAMEPLAY_CigarettePackHappinessDescription": {
+    "English": "A pack of Double Happiness cigarettes."  
+  },
+   "GAMEPLAY_CigarettePackMenthol": {
+    "English": "Cigarette Pack"
+  },
+  "GAMEPLAY_CigarettePackMentholDescription": {
+    "English": "A pack of Marlboro Menthol cigarettes."  
+  },
+   "GAMEPLAY_Lighter": {
+    "English": "Lighter"
+  },
+  "GAMEPLAY_LighterDescription": {
+    "English": "A small flint lighter. Doesn't work, but still contains some fuel."  
+  },      
+}
