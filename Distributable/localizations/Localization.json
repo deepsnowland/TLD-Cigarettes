@@ -1,68 +1,90 @@
 {
   "GAMEPLAY_Cigarette": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+    "Japanese": "煙草"
   },
   "GAMEPLAY_CigaretteDescription": {
-    "English": "A filtered tobacco cigarette."
+    "English": "A filtered tobacco cigarette.",
+    "Japanese": "フィルター付きの煙草"
   }
   "GAMEPLAY_CigaretteAction": {
-	"English": "Smoking"
+	"English": "Smoking",
+	"Japanese": "喫う"
   },
   "GAMEPLAY_CigaretteSingle": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+    "Japanese": "煙草"
   },
   "GAMEPLAY_CigaretteMultiple": {
-    "English": "Cigarettes"
+    "English": "Cigarettes",
+    "Japanese": "煙草"
   },
   "GAMEPLAY_CigaretteLucky": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+    "Japanese": "煙草"
   },
   "GAMEPLAY_CigaretteLuckyDescription": {
-    "English": "An unfiltered Lucky Strike cigarette. One of the rare kind."
+    "English": "An unfiltered Lucky Strike cigarette. One of the rare kind.",
+    "Japanese": "フィルターなしのラッキーストライク。希少品。"
   }
   "GAMEPLAY_CigaretteLuckyAction": {
-	"English": "Smoking"
+	"English": "Smoking",
+	"Japanese": "喫う"  
   },
   "GAMEPLAY_CigaretteLuckySingle": {
-    "English": "Cigarette"
+    "English": "Cigarette",
+    "Japanese": "煙草"
   },
   "GAMEPLAY_CigaretteLuckyMultiple": {
-    "English": "Cigarettes"
+    "English": "Cigarettes",
+    "Japanese": "煙草"
   },
   "GAMEPLAY_CigarettePackCamel": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+    "Japanese": "煙草のパッケージ"
   },
   "GAMEPLAY_CigarettePackCamelDescription": {
-    "English": "A pack of Camel cigarettes."  
+    "English": "A pack of Camel cigarettes.",
+    "Japanese": "キャメルのパッケージ"
   },
   "GAMEPLAY_CigarettePackLucky": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+    "Japanese": "煙草のパッケージ"
   },
   "GAMEPLAY_CigarettePackLuckyDescription": {
-    "English": "A pack of Lucky Strike cigarettes. One of the rare kind."  
+    "English": "A pack of Lucky Strike cigarettes. One of the rare kind.",
+    "Japanese": "ラッキーストライクのパッケージ。希少品。"
   },
    "GAMEPLAY_CigarettePackLuckySmall": {
-    "English": "Vintage Cigarettes"
+    "English": "Vintage Cigarettes",
+    "Japanese": "ヴィンテージ煙草のパッケージ"
   },
   "GAMEPLAY_CigarettePackLuckySmallDescription": {
-    "English": "A small vintage pack of Lucky Strike cigarettes. One of the rare kind."  
+    "English": "A small vintage pack of Lucky Strike cigarettes. One of the rare kind.",
+    "Japanese": "ヴィンテージ版ラッキーストライクのパッケージ。希少品。"
   }, 
    "GAMEPLAY_CigarettePackHappiness": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+    "Japanese": "煙草のパッケージ"
   },
   "GAMEPLAY_CigarettePackHappinessDescription": {
-    "English": "A pack of Double Happiness cigarettes."  
+    "English": "A pack of Double Happiness cigarettes.",
+    "Japanese": "ダブルハピネスのパッケージ"
   },
    "GAMEPLAY_CigarettePackMenthol": {
-    "English": "Cigarette Pack"
+    "English": "Cigarette Pack",
+    "Japanese": "煙草のパッケージ"
   },
   "GAMEPLAY_CigarettePackMentholDescription": {
-    "English": "A pack of Marlboro Menthol cigarettes."  
+    "English": "A pack of Marlboro Menthol cigarettes.",
+    "Japanese": "マルボロメンソールのパッケージ"
   },
    "GAMEPLAY_Lighter": {
-    "English": "Lighter"
+    "English": "Lighter",
+    "Japanese": "ライター"
   },
   "GAMEPLAY_LighterDescription": {
-    "English": "A small flint lighter. Doesn't work, but still contains some fuel."  
+    "English": "A small flint lighter. Doesn't work, but still contains some fuel.",
+    "Japanese": "小型のフリント式ライター。壊れているがまだガスが多少残っている。"
   },      
 }
