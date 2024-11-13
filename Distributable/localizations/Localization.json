@@ -1,178 +1,90 @@
 {
   "GAMEPLAY_Cigarette": {
     "English": "Cigarette",
-    "French (France)": "Cigarette",
-    "German": "Zigarette",
     "Japanese": "煙草",
-    "Russian": "Сигарета",
-    "Spanish (Spain)": "Cigarrillo"
   },
   "GAMEPLAY_CigaretteDescription": {
     "English": "A filtered tobacco cigarette.",
-    "French (France)": "Une cigarette au tabac filtré.",
-    "German": "Eine filterlose Tabakzigarette.",
     "Japanese": "フィルター付きの煙草",
-    "Russian": "Фильтрованная табачная сигарета.",
-    "Spanish (Spain)": "Un cigarrillo de tabaco filtrado."
   }
   "GAMEPLAY_CigaretteAction": {
 	"English": "Smoking",
-	"French (France)": "Fumer",
-	"German": "Rauchen",
 	"Japanese": "喫う",
-	"Russian": "Курение",
-	"Spanish (Spain)": "Fumar"
   },
   "GAMEPLAY_CigaretteSingle": {
     "English": "Cigarette",
-    "French (France)": "Cigarette",
-    "German": "Zigarette",
     "Japanese": "煙草",
-    "Russian": "Сигарета",
-    "Spanish (Spain)": "Cigarrillo"
   },
   "GAMEPLAY_CigaretteMultiple": {
     "English": "Cigarettes",
-    "French (France)": "Cigarettes",
-    "German": "Zigaretten",
     "Japanese": "煙草",
-    "Russian": "Сигареты",
-    "Spanish (Spain)": "Cigarrillos"
   },
   "GAMEPLAY_CigaretteLucky": {
     "English": "Cigarette",
-    "French (France)": "Cigarette",
-    "German": "Zigarette",
     "Japanese": "煙草",
-    "Russian": "Сигарета",
-    "Spanish (Spain)": "Cigarrillo"
   },
   "GAMEPLAY_CigaretteLuckyDescription": {
     "English": "An unfiltered Lucky Strike cigarette. One of the rare kind.",
-    "French (France)": "Une cigarette Lucky Strike non filtrée. L'une des rares.",
-    "German": "Eine ungefilterte Lucky Strike Zigarette. Eine der seltenen Art.",
     "Japanese": "フィルターなしのラッキーストライク。希少品。",
-    "Russian": "Несортированная сигарета Lucky Strike. Редкий вид.",
-    "Spanish (Spain)": "Un cigarrillo Lucky Strike sin filtro. Un tipo raro."
   }
   "GAMEPLAY_CigaretteLuckyAction": {
 	"English": "Smoking",
-	"French (France)": "Fumer",
-	"German": "Rauchen",
 	"Japanese": "喫う",
-	"Russian": "Курение",
-	"Spanish (Spain)": "Fumar"
   },
   "GAMEPLAY_CigaretteLuckySingle": {
     "English": "Cigarette",
-    "French (France)": "Cigarette",
-    "German": "Zigarette",
     "Japanese": "煙草",
-    "Russian": "Сигарета",
-    "Spanish (Spain)": "Cigarrillo"
   },
   "GAMEPLAY_CigaretteLuckyMultiple": {
     "English": "Cigarettes",
-    "French (France)": "Cigarettes",
-    "German": "Zigaretten",
     "Japanese": "煙草",
-    "Russian": "Сигареты",
-    "Spanish (Spain)": "Cigarrillos"
   },
   "GAMEPLAY_CigarettePackCamel": {
     "English": "Cigarette Pack",
-    "French (France)": "Paquet de cigarettes",
-    "German": "Zigarettenpackung",
     "Japanese": "煙草のパッケージ",
-    "Russian": "Пачка сигарет",
-    "Spanish (Spain)": "Paquete de cigarrillos"
   },
   "GAMEPLAY_CigarettePackCamelDescription": {
     "English": "A pack of Camel cigarettes.",
-    "French (France)": "Un paquet de cigarettes Camel.",
-    "German": "Eine Packung Camel Zigaretten.",
     "Japanese": "キャメルのパッケージ",
-    "Russian": "Пачка сигарет Camel.",
-    "Spanish (Spain)": "Un paquete de cigarrillos Camel."
   },
   "GAMEPLAY_CigarettePackLucky": {
     "English": "Cigarette Pack",
-    "French (France)": "Paquet de cigarettes",
-    "German": "Zigarettenpackung",
     "Japanese": "煙草のパッケージ",
-    "Russian": "Пачка сигарет",
-    "Spanish (Spain)": "Paquete de cigarrillos"
   },
   "GAMEPLAY_CigarettePackLuckyDescription": {
     "English": "A pack of Lucky Strike cigarettes. One of the rare kind.",
-    "French (France)": "Un paquet de cigarettes Lucky Strike. Une sorte rare.",
-    "German": "Eine Packung Lucky Strike Zigaretten. Eine seltene Art.",
     "Japanese": "ラッキーストライクのパッケージ。希少品。",
-    "Russian": "Пачка сигарет Lucky Strike. Редкий вид.",
-    "Spanish (Spain)": "Un paquete de cigarrillos Lucky Strike. Uno de los tipos raros."
   },
    "GAMEPLAY_CigarettePackLuckySmall": {
     "English": "Vintage Cigarettes",
-    "French (France)": "",
-    "German": "",
     "Japanese": "ヴィンテージ煙草のパッケージ",
-    "Russian": "",
-    "Spanish (Spain)": ""
   },
   "GAMEPLAY_CigarettePackLuckySmallDescription": {
     "English": "A small vintage pack of Lucky Strike cigarettes. One of the rare kind.",
-    "French (France)": "",
-    "German": "",
     "Japanese": "ヴィンテージ版ラッキーストライクのパッケージ。希少品。",
-    "Russian": "",
-    "Spanish (Spain)": ""
   }, 
    "GAMEPLAY_CigarettePackHappiness": {
     "English": "Cigarette Pack",
-    "French (France)": "Paquet de cigarettes",
-    "German": "Zigarettenpackung",
     "Japanese": "煙草のパッケージ",
-    "Russian": "Пачка сигарет",
-    "Spanish (Spain)": "Paquete de cigarrillos"
   },
   "GAMEPLAY_CigarettePackHappinessDescription": {
     "English": "A pack of Double Happiness cigarettes.",
-    "French (France)": "",
-    "German": "",
     "Japanese": "ダブルハピネスのパッケージ",
-    "Russian": "",
-    "Spanish (Spain)": ""
   },
    "GAMEPLAY_CigarettePackMenthol": {
     "English": "Cigarette Pack",
-    "French (France)": "Paquet de cigarettes",
-    "German": "Zigarettenpackung",
     "Japanese": "煙草のパッケージ",
-    "Russian": "Пачка сигарет",
-    "Spanish (Spain)": "Paquete de cigarrillos"
   },
   "GAMEPLAY_CigarettePackMentholDescription": {
     "English": "A pack of Marlboro Menthol cigarettes.",
-    "French (France)": "Un paquet de cigarettes Marlboro Menthol.",
-    "German": "Eine Packung Marlboro Menthol Zigaretten.",
     "Japanese": "マルボロメンソールのパッケージ",
-    "Russian": "Пачка сигарет Marlboro Menthol.",
-    "Spanish (Spain)": "Un paquete de cigarrillos Marlboro Menthol."
   },
    "GAMEPLAY_Lighter": {
     "English": "Lighter",
-    "French (France)": "Briquet",
-    "German": "Feuerzeug",
     "Japanese": "ライター",
-    "Russian": "Зажигалка",
-    "Spanish (Spain)": "Encendedor"
   },
   "GAMEPLAY_LighterDescription": {
     "English": "A small flint lighter. Doesn't work, but still contains some fuel.",
-    "French (France)": "",
-    "German": "",
     "Japanese": "小型のフリント式ライター。壊れているがまだガスが多少残っている。",
-    "Russian": "",
-    "Spanish (Spain)": ""
   },      
 }
